@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @jakiki6-pullbot, @jakiki6 uses me on his raspberry pi to pull one repository
